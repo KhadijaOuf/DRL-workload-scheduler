@@ -1,0 +1,14 @@
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+*.zip
+*.pkl
+*.npz
+runs_scheduler/
+runs_scheduler_v2/
+optuna_trials/
+tensorboard/
+
+# python
+__pycache__/
+*.pyc
