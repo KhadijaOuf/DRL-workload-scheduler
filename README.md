@@ -82,7 +82,7 @@ tensorboard --logdir=.
 
 Once TensorBoard initializes, open your browser and navigate to the provided local address (usually http://localhost:6006/).
 
-###⚠️ Project Limitations & Future Work
+### ⚠️ Project Limitations & Future Work
 
 - **Single-Agent Sequential Bottleneck:** The agent currently processes only one job per timestep.
 - **High Parameter Sensitivity:** The failure dynamics rely heavily on fixed initial constants (arrival_lambda and crash probabilities).
